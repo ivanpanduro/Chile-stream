@@ -1,0 +1,70 @@
+/* Reset general */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Fondo del body */
+body {
+    background-color: #FAF0E6 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2B2B2B;
+}
+.navbar {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.navbar-brand {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.navbar .btn {
+    border: none;
+    font-size: 0.95rem;
+}
+
+
+/* Cards de películas */
+.card {
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* Imagen dentro de la card */
+.card-img-top {
+    height: 400px;
+    object-fit: cover;
+}
+
+/* Botones */
+.btn-primary {
+    background-color: #D64933;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #8C1C13;
+}
+
+.btn-outline-danger:hover {
+    background-color: #F8D7DA;
+    color: #8C1C13;
+}
+
+/* Footer si lo agregas después */
+footer {
+    background-color: #D4C9BE;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+}

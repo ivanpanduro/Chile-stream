@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChileStream - Inicio de Sesión</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <h1>Chile Stream</h1>
+    <form id="loginForm">
+        <p><strong>Inicio de Sesión</strong></p>
+        <img src="img/logo.png" alt="Logo ChileStream" class="logo-img"> <br>
+
+        <label for="email"><b>Correo electrónico</b></label><br>
+        <input type="email" id="email" placeholder="tucorreo@ejemplo.com" required><br><br>
+
+        <label for="password"><b>Contraseña</b></label><br>
+        <input type="password" id="password" placeholder="********" required><br><br>
+
+        <button type="submit"><b>Iniciar Sesión</b></button>
+    </form>
+
+    <footer>
+        <p><b>&copy; 2025 ChileStream - Todos los derechos reservados</b></p>
+    </footer>
+
+    <script>
+        document.getElementById('loginForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+
+            if (email !== '' && password !== '') {
+                // Simulación de login correcto
+                alert('Inicio de sesión exitoso. ¡Bienvenido a ChileStream!');
+                window.location.href = 'home.html';
+            } else {
+                alert('Por favor completa todos los campos.');
+            }
+        });
+    </script>
+</body>
+</html>
