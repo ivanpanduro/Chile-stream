@@ -1,11 +1,10 @@
-/* Reset general */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Fondo del body */
+
 body {
     background-color: #FAF0E6 ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -60,7 +59,7 @@ body {
     color: #8C1C13;
 }
 
-/* Footer si lo agregas después */
+
 footer {
     background-color: #D4C9BE;
     color: white;

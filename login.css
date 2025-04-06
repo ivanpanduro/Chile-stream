@@ -1,11 +1,10 @@
-/* Reset general */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Estilo general del body */
+
 body {
     background-color: #F1EFEC;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -17,12 +16,12 @@ body {
     height: 100vh;
 }
 
-/* Título */
+
 h1 {
     margin-bottom: 20px;
     color: #8C1C13;
 }
-/*imagen logo*/
+
 .logo-img {
     width: 120px;
     height: 120px;
@@ -34,7 +33,6 @@ h1 {
 }
 
 
-/* Formulario */
 form {
     background-color: white;
     padding: 30px;
@@ -54,7 +52,7 @@ form img {
     margin-bottom: 20px;
 }
 
-/* Inputs */
+
 input[type="email"],
 input[type="password"] {
     width: 100%;
@@ -64,7 +62,7 @@ input[type="password"] {
     border-radius: 8px;
 }
 
-/* Botón */
+
 button {
     width: 100%;
     padding: 10px;
@@ -81,7 +79,7 @@ button:hover {
     background-color: #8C1C13;
 }
 
-/* Footer */
+
 footer {
     position: absolute;
     bottom: 10px;
