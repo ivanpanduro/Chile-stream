@@ -13,15 +13,18 @@ Aquí el usuario no solo ve películas, ¡vive emociones!
 
 ---
 
-## 2. Captura de pantalla del proyecto 
+## 2. Captura de pantalla del proyecto
 
-###Login de Chilestream 
+### Login de Chilestream
 
-![login](imagen/login.jpg)
+![Login](imagen/login.jpg)
 
-###Pantalla Principal
+---
 
-![home](imagen/home.jpg)
+### Pantalla Principal
+
+![Home](imagen/home.jpg)
+
 
 
 
