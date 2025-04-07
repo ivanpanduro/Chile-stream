@@ -17,11 +17,11 @@ Aquí el usuario no solo ve películas, ¡vive emociones!
 
 ###Login de Chilestream 
 
-![Acceso](imagen/login.jpg)
+![login](imagen/login.jpg)
 
 ###Pantalla Principal
 
-![Inicio](imagen/home.jpg)
+![home](imagen/home.jpg)
 
 
 
