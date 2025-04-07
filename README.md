@@ -5,13 +5,17 @@
 
 ---
 
-## 1. Resumen (máximo 3 líneas)
+## 1. Resumen 
 
 ChileStream es una plataforma de streaming hecha con puro 🔥 HTML, CSS y JavaScript Vanilla.  
 No es solo un clon de Netflix... es una experiencia personalizada.  
 Aquí el usuario no solo ve películas, ¡vive emociones!
 
 ---
+
+## 2 Captura de pantalla del proyecto 
+
+
 
 ## 2. Requerimientos técnicos
 
