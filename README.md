@@ -30,7 +30,7 @@ Aquí el usuario no solo ve películas, ¡vive emociones!
 
 ## 3. Mockup inicial
 
-> Aquí va una imagen de tu mockup inicial (puedes subir una a la carpeta `img/`)
+![Mockup de ChileStream](img/mackup.png)
 
 ---
 
